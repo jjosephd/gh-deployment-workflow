@@ -29,7 +29,7 @@ This project is designed to help you learn the concepts of Continuous Integratio
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://jjosephd.github.io/gh-deployment-workflow/
    cd your-repo
    ```
 
